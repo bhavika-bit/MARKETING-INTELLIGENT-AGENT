@@ -8,8 +8,8 @@ briefs.
 
 ## Features
 
--   Evaluates a 20-creator Instagram sample using the available creator,
-    post, audience, and advertising data.
+-   Evaluates a 200-creator Instagram sample using the available creator,
+    post, audience, and advertising data with around 29,999 organic posts and 5000 ad creatives.
 -   Combines performance, campaign relevance, and brand compatibility
     into a transparent weighted score.
 -   Produces five differentiated creator recommendations.
