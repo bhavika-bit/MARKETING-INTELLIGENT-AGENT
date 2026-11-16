@@ -1,5 +1,5 @@
 # Marketing-Intelligent-Agent
-
+App url :([url](https://marketing-intelligent-agent-bdes3uwlqzoyxqu8ayyjeh.streamlit.app/))
 A Streamlit-based creator intelligence prototype for marketing campaign
 planning. The application evaluates Instagram creators using
 performance, semantic relevance, and brand-compatibility evidence, ranks
